@@ -1,0 +1,5 @@
+<!-- usable starting commands -->
+
+git init 
+dvc init
+dvc add data_given/winequality.csv
