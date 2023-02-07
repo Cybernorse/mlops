@@ -11,3 +11,15 @@ git push -u origin main
 
 
 dvc repro  # to log data and pipelines to dvc
+
+tox # for running tox file 
+tox -r # for rebuilding tox file
+
+pytest -v # for test cases
+
+setup commands 
+pip install -e .
+
+build your own package commands
+python setup.py sdist bdist_wheel
+
