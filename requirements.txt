@@ -6,4 +6,5 @@ pytest
 tox
 flake8
 flask
-heroku
+gunicorn
+mlflow

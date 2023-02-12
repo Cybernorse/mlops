@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/a5931c43ae7e4d84a29da0ff3d9e2701/artifacts
+end_time: 1676213780880
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a5931c43ae7e4d84a29da0ff3d9e2701
+run_uuid: a5931c43ae7e4d84a29da0ff3d9e2701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676213778181
+status: 4
+tags: []
+user_id: bigpenguin
